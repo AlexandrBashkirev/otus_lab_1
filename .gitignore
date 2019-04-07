@@ -1,0 +1,10 @@
+otus_lab_1.sln
+x64/
+.vs/
+otus_lab_1/otus_lab_1.vcxproj
+otus_lab_1/otus_lab_1.vcxproj.filters
+otus_lab_1/otus_lab_1.vcxproj.user
+version.h
+test_version/
+Release/
+version/
